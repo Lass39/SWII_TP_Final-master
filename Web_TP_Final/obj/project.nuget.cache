@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tXhwB33fonCgfxq2YGUFMcB332M+mM7uNoW8QRl/wqQXnO8TKRuZ8ybMBboqiWI4anSCYZ+CR7M8TRWg96PEDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cyber\\Downloads\\SWII_TP_Final-master\\Web_TP_Final\\Web_TP_Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cyber\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
